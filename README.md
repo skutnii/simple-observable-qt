@@ -1,6 +1,6 @@
 # simple-observable-qt
 An example of using MVVM and Observer pattern with Qt.
-I felt that Qt signals are still too low-level and do not provide the desired "observable property" notion, and on the other hand, the whole reactive programming machinery is an overkill, so a (relatively) simple Observable template class was implemented. While being simple, it still supports bidirectional data bindings.
+I felt that Qt signals are still too low-level and do not provide the desired "observable property" notion, and on the other hand, the whole reactive programming machinery is an overkill, so a (relatively) simple Observable template class was implemented. While being simple, it supports bidirectional data bindings.
 
 Reusable part of the code is in the lib/ folder.
 
